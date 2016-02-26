@@ -1,0 +1,9 @@
+/*!
+Some custom css
+*/
+
+#center {
+  width: 333px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
